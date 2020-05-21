@@ -19,7 +19,7 @@ For this project, I will concentrate on gaining competencies in the following ge
       
   * Streamlining and combining pipelines for multimodal MRI data pre-processing and analysis 
       * Integration (wrapping) of other processing programs to be called within python (e.g. FSL, CAT12, ComBat)
-      * Python (pandas, NumPy , Dypy, etc.) 
+      * Python (pandas, NumPy , DyPy, etc.) 
       * Parallelization (Nextflow)
       
   * Standaridized visualization pipeline for easy comparison across groups
