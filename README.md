@@ -1,4 +1,4 @@
-# OccipitalCandy_dMRIpipeline
+# OccipitalCandy_ReproducibleSanityPipeline
 
 ## Summary 
 
