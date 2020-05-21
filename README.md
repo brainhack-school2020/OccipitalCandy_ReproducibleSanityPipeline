@@ -15,17 +15,24 @@ Working with large, multi-site databases, I found that one of the biggest challe
 For this project, I will concentrate on gaining competencies in the following general areas using the following tools:
 
   * Datasharing, Open Science
+      
       * BIDS (e.g. Pybids)
       * Github
       * Docker or Singularity
       
   * Streamlining and combining pipelines for multimodal MRI data pre-processing and analysis 
+      
       * Integration (wrapping) of other processing programs to be called within python (e.g. FSL, CAT12)
       * Python (pandas, NumPy , DyPy, etc.) 
       * Parallelization (Nextflow)
       
   * Standaridized visualization pipeline for easy comparison across groups
+      
       * matplotlib  
+      
+  * Test in a High Performance Computing environment
+      
+      * Compute Canada
 
 ### Data
 
